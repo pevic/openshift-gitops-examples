@@ -4,7 +4,7 @@ metadata:
   name: bgd
 spec:
   rules:
-    - host: bgd.devnation
+    - host: bgd.devnation.chi1219.example.com
       http:
         paths:
           - path: /
